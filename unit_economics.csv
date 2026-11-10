@@ -1,0 +1,9 @@
+channel,volume_mln,fixed_cost_mrub,partner_fee_rub,batch_logistics_rub,storage_operations_rub,verification_rub,support_rub,customer_incentive_rub,returns_risk_rub,variable_cost_rub,total_cost_mrub,cost_per_successful_issue_rub
+X5,3.0,360,180,45,30,65,35,120,25,500,1860,620
+PVZ,1.2,120,220,60,25,65,40,120,30,560,792,660
+Infrastructure_operator,0.7,98,300,120,50,80,55,100,45,750,623,890
+Corporate_issue,0.4,24,250,70,20,90,40,80,20,570,252,630
+Cardomat_base,0.2,150,0,60,80,40,30,50,20,280,206,1030
+ALTERNATIVE_TOTAL,5.5,752,,,,,,,,542,3733,679
+Traditional_mixed,4.5,,,,,,,,,,,7000,1556
+PROGRAM_TOTAL,10.0,,,,,,,,,,,10733,1073
